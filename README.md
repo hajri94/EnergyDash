@@ -9,9 +9,10 @@ Installation:  1- Clone the project in your editor either pycharm or vscode usin
 Usage:     The dashboard will give you the overview you need to get an idea of its operationality, efficiency, capacity to save energy, using energy monitoring and targeting                  techniques such as :  1-  Monitoring energy consumption against a baseline using regression analysis.
                                  2-  CUSUM charting (CUSUM (cumulative sum control chart) is a powerful technique for illustrating energy performance of a plant or energy-                                              consuming system)
                                  
-                                ![image](https://user-images.githubusercontent.com/82321097/128598675-cb28ac2d-29e7-4336-a75a-c24c625aaea1.png)
-                                ![image](https://user-images.githubusercontent.com/82321097/128598683-05ee2808-4a32-498d-a233-e923559082e8.png)
-                                ![image](https://user-images.githubusercontent.com/82321097/128598709-98506739-6713-4073-868f-4814404e460b.png)
+                                
+![image](https://user-images.githubusercontent.com/82321097/128598847-406d1356-db2f-4a63-a7ff-0a2bd05b2f10.png)
+![image](https://user-images.githubusercontent.com/82321097/128598852-2a5e8b85-4ecd-46ea-b302-f7f7c56ddbd1.png)
+![image](https://user-images.githubusercontent.com/82321097/128598860-a1d35fea-5df5-466e-ba50-95ea792f8655.png)
 
 
                                  
